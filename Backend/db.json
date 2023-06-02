@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "name": "Chiranjit",
+      "sal": "40000",
+      "comp": "TCS",
+      "id": 1
+    },
+    {
+      "name": "Sneha",
+      "sal": "30000",
+      "comp": "Capgemini",
+      "id": 2
+    },
+    {
+      "name": "Debajyoti",
+      "sal": "50000",
+      "comp": "Google",
+      "id": 3
+    },
+    {
+      "name": "Keshab",
+      "sal": "60000",
+      "comp": "Alphabet",
+      "id": 4
+    }
+  ]
+}
